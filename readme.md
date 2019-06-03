@@ -41,7 +41,8 @@ If you are having trouble making a persona use the canvas.
 
 
 ![user persona canvas](Persona-workshop-canvas.png)
-for clarification purposes:
+
+**For clarification purposes:**
 1. **Prior knowledge**
     - What does our user know about the website/app/software?
 2. **Context**
