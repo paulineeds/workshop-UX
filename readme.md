@@ -8,6 +8,9 @@
 
 
 
-### information
+### Information
 
-[**powerpoint**](https://docs.google.com/presentation/d/1UcZbbT5Dk61B8mKW4F1opTla-0G6IKnMQTY0jGAPT4o/edit?usp=sharing)
+* [powerpoint](https://docs.google.com/presentation/d/1UcZbbT5Dk61B8mKW4F1opTla-0G6IKnMQTY0jGAPT4o/edit?usp=sharing)
+* [Don't Make me think - Steve Krug](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+* [Killer UX Design - Jodie Moule](https://www.slideshare.net/Gnasvipzem/killer-ux-design-free-book)
+
