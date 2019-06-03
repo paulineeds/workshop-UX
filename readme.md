@@ -17,15 +17,28 @@
 
 
 ## Exercise 1
-### Wireframing 
-* **What do you need:** Paper, pen,
+### Wireframing your favorite website
+* **What do you need:** Paper, pen, (a team)
 * **Duration:** ± 20 min
-* **What to do:** Take 2 of your favorite websites or apps and wireframe these. Then compare these 2 websites/apps. What do they have in common? What are the differences?
+* **What to do:** Take 3 of your favorite websites or apps and wireframe these. Then compare these 2 websites/apps. What do they have in common? What are the differences?
 
 
 
 ## Exercise 2 **(extra)**
-### Wireframing 
-* **What do you need:** Paper, pen,
+### Wireframing a bad website
+* **What do you need:** Paper, pen
 * **Duration:** ± 15 min
 * **What to do:** Look for a realy bad website or app, wireframe this. What has to change? What is already good? Can you improve it?
+
+
+
+## Exercise 3
+### Personas of your favorite website
+* **What do you need:** Paper, pen, (a team)
+* **Duration:** ± 20 min
+* **What to do:** Take a look at your favorite website or app. can you make a persona for it? Who is it? Is it you? or someone else, ask them some questions. 
+If you are having trouble making a persona use the canvas.
+
+
+![user persona canvas](Persona-workshop-canvas.png)
+
