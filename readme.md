@@ -41,4 +41,33 @@ If you are having trouble making a persona use the canvas.
 
 
 ![user persona canvas](Persona-workshop-canvas.png)
+for clarification purposes:
+1. **Prior knowledge**
+    - What does our user know about the website/app/software?
+2. **Context**
+    - In what kind of circumstances/ environment does our user use it?
+3. **Problems**
+    - What kind of problems does he/she have? What does he/she read?
+4. **Motivation**
+    - Why does he/she wants to use it? what is his/her motivation?
+
+
+
+## Exercise 4
+### Personas of the BeCode website
+* **What do you need:** Paper, pen, (a team)
+* **Duration:** ± 20 min
+* **What to do:** Take a look at the BeCode website and try to make a persona for it. You can use the same canvas like the previous exercise.
+
+
+
+## Exercise 5
+### BeCode Website
+* **What do you need:** Paper, pen, (a team)
+* **Duration:** ± 40 min
+* **What to do:** Work with the persona you created, try to start from a wireframe and proceed to a simple mockup for the BeCode website.
+
+
+
+
 
