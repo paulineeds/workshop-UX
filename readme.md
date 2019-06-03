@@ -8,6 +8,6 @@
 
 
 
-###information
+### information
 
-[**powerpoint:**](https://docs.google.com/presentation/d/1UcZbbT5Dk61B8mKW4F1opTla-0G6IKnMQTY0jGAPT4o/edit?usp=sharing)
+[**powerpoint**](https://docs.google.com/presentation/d/1UcZbbT5Dk61B8mKW4F1opTla-0G6IKnMQTY0jGAPT4o/edit?usp=sharing)
